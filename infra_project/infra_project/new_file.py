@@ -1,3 +1,5 @@
+""" восстановил по памяти методы сортировки"""
+
 from random import randint
 
 # def max1(n1, n2, n3):
